@@ -1,0 +1,19 @@
+{
+	"token": "token",
+	"prefix": "$",
+	"Dev": [
+    "ownerid"
+	],
+	"Admin": [
+		"adminid"
+	],
+	"firebaseconfig": {
+		"authDomain": "",
+		"databaseURL": "",
+		"projectId": "",
+		"storageBucket": "",
+		"messagingSenderId": "",
+		"appId": "",
+		"measurementId": ""
+	}
+}
